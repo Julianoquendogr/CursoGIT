@@ -5,6 +5,15 @@ body{
     font-size: 16px;
     padding: 0;
 }
+#cabecera
+{
+    background: #44C;
+    color: white;
+    font-weight:  bold;
+    margin: 0;
+    padding: 0.5em;
+
+}
 
 #container
 {
@@ -18,4 +27,9 @@ body{
 #container h1
 {
 font-size: 20px;
+}
+
+#post
+{
+
 }
